@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Мягких Арина Александровна_CatFramework">
+      <HintPath>..\..\Мягких Арина Александровна_CatFramework\Мягких Арина Александровна_CatFramework\bin\Debug\net8.0\Мягких Арина Александровна_CatFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
